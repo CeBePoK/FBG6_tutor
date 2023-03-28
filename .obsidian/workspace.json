@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "04b22083318d13c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "555efe3856a63a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013c6649c1c1ca25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D/Полезные ссылки/FBG6/ТТХ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e52690a86846447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e127ab1bd3dbd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab99c927b3ccb446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "132e9eb9ccec2a3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "459032c4f942d2b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e07a2d5127ee7aa2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34a563cd4d82e428",
+    "type": "split",
+    "children": [
+      {
+        "id": "50f505ba7b2573b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01be60f42cfa273e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0003f76b4b1e5caf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d38058f293aa363c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fec6064b69f43dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "2e52690a86846447",
+  "lastOpenFiles": [
+    "3D/Сопла.md",
+    "README.md",
+    "3d.md",
+    "3D/Схема экструдера.md",
+    "3D/Хеатблок.md",
+    "3D/Без названия.md",
+    "3D/Виды термобарьера.md",
+    "attachments/Pasted image 20221203164459.png",
+    "attachments/Pasted image 20221115031642.png",
+    "attachments/Pasted image 20221107232136.png",
+    "attachments/Pasted image 20221115025718.png",
+    "attachments/Pasted image 20221015021948.png",
+    "attachments/Pasted image 20220925044202.png",
+    "attachments/Pasted image 20220925043254.png",
+    "attachments/Pasted image 20220925034613.png"
+  ]
+}
